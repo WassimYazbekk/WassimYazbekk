@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Go lang, HTMX**
 
- 💬 Ask me about **Node.js, React, Firebase, MySQL, NextJS, Java...**
+ 💬 Ask me about ** React & NextJS**
 
  ⚡ Fun fact **I wanted to be a physicist**
  
@@ -27,9 +27,9 @@
   <a href="https://www.linkedin.com/in/wassim-yazbekk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://wassimyazbekk.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> -->
+  </a>
 </div>
 
  <hr/>
@@ -38,21 +38,21 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,github,neovim,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,nextjs,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<!-- <div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/WassimYazbekk/WassimYazbekk/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<hr/> -->
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
