@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Go lang, HTMX**
 
- 💬 Ask me about ** React & NextJS**
+ 💬 Ask me about **React & NextJS**
 
  ⚡ Fun fact **I wanted to be a physicist**
  
