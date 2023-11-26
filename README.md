@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **finding an actual job!**
  
- 🌱 I’m currently **switching to cybersecurity maybe**
+ 🌱 I’m currently **switching to cybersecurity maybe 🤷🏼‍♂️**
 
  💬 Ask me about **React & NextJS**
 
