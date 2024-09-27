@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **finding an actual job!**
+ 🔭 I’m currently working on **Full-Stack Laravel Apps**
  
- 🌱 I’m currently **switching to cybersecurity maybe 🤷🏼‍♂️**
+ 🌱 I’m currently learning **Golang**
 
- 💬 Ask me about **React & NextJS**
+ 💬 Ask me about **React & Laravel**
 
  ⚡ Fun fact **I wanted to be a physicist**
  
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,github,neovim,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,github,neovim,tailwind,git,laravel" />
     <br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,nextjs,mysql" /><br>
 </div>
