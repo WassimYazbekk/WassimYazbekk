@@ -1,73 +1,29 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Wassim Yazbekk — full-stack developer based in Lebanon" width="1200">
+</picture>
 
+# Hi, I'm Wassim.
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wassim+Yazbekk!;" />
-</h1>
+I'm a software developer from Lebanon, building web applications with **React** and **Laravel**. I enjoy working across the stack, from the interface to the API and database behind it.
 
-<h3 align="center">A passionate software developer from Lebanon 🇱🇧</h3>
+[Portfolio](https://wassimyazbekk.github.io) · [LinkedIn](https://www.linkedin.com/in/wassim-yazbekk/) · [Email](mailto:wassimyazbekk.development@gmail.com)
 
-<br/>
+## Selected work
 
-<div align="center">
- 
- 🔭 I’m currently working on **Full-Stack Laravel Apps**
- 
- 🌱 I’m currently learning **Golang**
+| Project | What you'll find |
+| :--- | :--- |
+| **[shadcn Table Pagination](https://github.com/WassimYazbekk/shadcn-table-pagination)** | A reusable data table example with server-side pagination.<br>React · TypeScript · shadcn/ui |
+| **[Game of Life](https://github.com/WassimYazbekk/react-game-of-life)** | Conway's Game of Life, built in React.<br>React · JavaScript |
+| **[Express + MySQL API](https://github.com/WassimYazbekk/express-mysql-server)** | An API example with JWT authentication, authorization, and CRUD operations.<br>Node.js · Express · MySQL |
 
- 💬 Ask me about **React & Laravel**
+## My toolkit
 
- ⚡ Fun fact **I wanted to be a physicist**
- 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:wassimyazbekk.development@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/wassim-yazbekk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://wassimyazbekk.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend & data:** Laravel, Node.js, Express, MySQL, Firebase
+- **Tools:** Git, GitHub, Neovim
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,github,neovim,tailwind,git,laravel" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,nextjs,mysql" /><br>
-</div>
+---
 
-<br/>
-<!---
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/WassimYazbekk/WassimYazbekk/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
---->
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=WassimYazbekk&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WassimYazbekk&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
-<br/>
+Fun fact: I once wanted to be a physicist.

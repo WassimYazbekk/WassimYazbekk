@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Wassim Yazbekk — full-stack developer</title>
+  <desc id="description">Based in Lebanon. React, Laravel, and TypeScript. An illustration of an interface and a terminal sits beside the introduction.</desc>
+  <rect x="1" y="1" width="1198" height="318" rx="20" fill="#F4F8F7" stroke="#D5E3DF" stroke-width="2"/>
+  <path d="M720 1V319M960 1V319M720 80H1199M720 160H1199M720 240H1199" stroke="#E5EEEB"/>
+  <rect x="48" y="48" width="4" height="20" rx="2" fill="#0F766E"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="66" y="63" fill="#416963" font-size="14" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER</text>
+    <text x="46" y="147" fill="#162F35" font-size="64" font-weight="700" letter-spacing="-2">Wassim Yazbekk<tspan fill="#0F766E">.</tspan></text>
+    <text x="50" y="193" fill="#526F75" font-size="22">React · Laravel · TypeScript</text>
+    <circle cx="55" cy="267" r="4" fill="#0F766E"/>
+    <text x="69" y="272" fill="#416963" font-size="13" font-weight="600" letter-spacing="2">BASED IN LEBANON</text>
+  </g>
+  <g stroke-width="2">
+    <rect x="782" y="49" width="330" height="198" rx="14" fill="#FFFFFF" stroke="#AFC9C3"/>
+    <path d="M783 87H1111" stroke="#D5E3DF"/>
+    <circle cx="802" cy="68" r="3" fill="#0F766E"/>
+    <circle cx="815" cy="68" r="3" fill="#8BA9A3"/>
+    <circle cx="828" cy="68" r="3" fill="#8BA9A3"/>
+    <rect x="802" y="107" width="62" height="119" rx="6" fill="#E8F0ED"/>
+    <path d="M817 125H849M817 141H842M817 157H846" stroke="#6E9088" stroke-linecap="round"/>
+    <rect x="884" y="107" width="207" height="43" rx="6" fill="#E0F3ED" stroke="#8FBEB0"/>
+    <path d="M900 123H968M900 135H946" stroke="#0F766E" stroke-linecap="round"/>
+    <rect x="884" y="165" width="94" height="61" rx="6" fill="#E8F0ED"/>
+    <rect x="991" y="165" width="100" height="61" rx="6" fill="#E8F0ED"/>
+    <rect x="950" y="195" width="202" height="84" rx="10" fill="#F4F8F7" stroke="#8FBEB0"/>
+    <path d="M968 217L974 223L968 229M984 229H994" stroke="#0F766E" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M969 246H1066M969 259H1036" stroke="#6E9088" stroke-linecap="round"/>
+  </g>
+</svg>
